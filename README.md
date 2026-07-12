@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=rajwant-raj&style=for-the-badge&color=blue)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rajwant-raj)
 

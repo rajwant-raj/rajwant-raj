@@ -1,213 +1,213 @@
-<h1 align="center">Hi 👋, I'm Rajwant Raj</h1>
+<!-- ========================== -->
+<!--       HEADER SECTION       -->
+<!-- ========================== -->
 
-<h3 align="center">
-AI/ML Enthusiast • Software Developer • B.Tech CSE Student
-</h3>
+<div align="center">
 
-<p align="center">
-Building practical AI applications that solve real-world problems.
-</p>
+# Hi 👋, I'm Rajwant Raj
 
----
+### AI/ML Enthusiast • Software Developer • B.Tech CSE Student
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Real-World+AI+Applications;Machine+Learning+%7C+Python+Developer;Always+Learning+New+Technologies;Open+to+AI%2FML+and+Software+Internships"/>
 
-- 🎓 B.Tech Computer Science & Engineering student
-- 💡 Passionate about Artificial Intelligence, Machine Learning & Software Development
-- 🤖 Completed AI/ML internships at **Scalezix** and **Codec Technologies**
-- 🎯 Currently serving as **GeeksforGeeks Campus Mantri**
-- 🌱 Learning:
-  - Advanced Machine Learning
-  - Deep Learning
-  - Data Structures & Algorithms
-  - Java
-- 💬 Ask me about
-  - Python
-  - Machine Learning
-  - Streamlit
-  - Data Science
-  - Git & GitHub
+</div>
 
 ---
 
-## 🛠 Tech Stack
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=rajwant-raj&style=for-the-badge&color=blue)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rajwant-raj)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajwantraj667@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rajwant-raj)
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 B.Tech Computer Science & Engineering Student
+
+🤖 AI/ML Intern at **Scalezix** & **Codec Technologies**
+
+🏆 GeeksforGeeks Campus Mantri
+
+💡 Passionate about
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Software Development
+
+🌱 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- Java
+- Data Structures & Algorithms
+
+🎯 2026 Goal
+
+- Build impactful AI products
+- Contribute to Open Source
+- Secure an SDE/AI Internship
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=python,java,c,js"/>
 
-### AI / Machine Learning
+### AI / ML
 
-- Machine Learning
-- Deep Learning
-- TensorFlow
-- Keras
-- Scikit-learn
-- Random Forest
-- CNN
-- Logistic Regression
-- Decision Trees
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
 
-### Data Science
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
-- Feature Engineering
-- Exploratory Data Analysis
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-### Development
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
 
-- Streamlit
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
-- Jupyter Notebook
-- Google Colab
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css"/>
+
+</div>
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 ## 📈 FinSight AI
+
 Financial Analytics & Stock Prediction Dashboard
 
-⭐ Features
+✔ Random Forest Prediction
 
-- Stock Prediction
-- Technical Indicators
-- Trend Analysis
-- Random Forest Model
-- Interactive Dashboard
+✔ Technical Indicators
 
-**Tech**
+✔ Interactive Charts
 
-Python • Streamlit • Scikit-learn • Plotly • yfinance
+✔ Streamlit Dashboard
 
-👉 Repository
-
-https://github.com/rajwant-raj/FinSight_Ai
+🔗 https://github.com/rajwant-raj/FinSight_Ai
 
 ---
 
 ## ❤️ HeartGuard AI
 
-Heart Disease Risk Prediction System
+Heart Disease Prediction using Machine Learning
 
-⭐ Features
+✔ Random Forest
 
-- ML Classification
-- Risk Prediction
-- ROC Analysis
-- Streamlit Dashboard
+✔ Logistic Regression
 
-**Tech**
+✔ Decision Tree
 
-Python • Streamlit • Scikit-learn • Pandas
+✔ Streamlit UI
 
-👉 Repository
-
-https://github.com/rajwant-raj/HeartGuard-AI
+🔗 https://github.com/rajwant-raj/HeartGuard-AI
 
 ---
 
 ## ✍ Handwritten Digit Recognizer
 
-CNN-powered digit recognition with interactive drawing canvas.
+Deep Learning CNN Project
 
-⭐ Features
+✔ TensorFlow
 
-- CNN Model
-- 98.6% Accuracy
-- Live Drawing Canvas
-- Real-time Prediction
+✔ Keras
 
-👉 Repository
+✔ Interactive Drawing Canvas
 
-https://github.com/rajwant-raj/handwritten-digit-recognition-canvas-version
+✔ 98.6% Accuracy
+
+🔗 https://github.com/rajwant-raj/handwritten-digit-recognition-canvas-version
 
 ---
 
-## 🤖 AssistIQ
+# 📊 GitHub Analytics
 
-Customer Support Chatbot
+<div align="center">
 
-Built using Python and Streamlit to automate common customer queries.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajwant-raj&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajwant-raj&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rajwant-raj&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajwant-raj&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajwant-raj&theme=tokyonight&row=1&column=7&margin-w=15"/>
+
+</div>
 
 ---
 
 # 📜 Certifications
 
-- ✅ TCS iON Career Edge – Generative AI Essentials
-- ✅ AWS – Fundamentals of Machine Learning & Artificial Intelligence
-- ✅ Google – Introduction to AI (Coursera)
+🏅 TCS iON Career Edge – Generative AI Essentials
+
+🏅 AWS – Fundamentals of Machine Learning & Artificial Intelligence
+
+🏅 Google – Introduction to AI
 
 ---
 
-# 📊 GitHub Stats
+# 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajwant-raj&show_icons=true&theme=tokyonight"/>
+<a href="mailto:rajwantraj667@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajwant-raj&layout=compact&theme=tokyonight"/>
+<a href="https://linkedin.com/in/rajwant-raj">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-</p>
+<a href="https://github.com/rajwant-raj">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rajwant-raj&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajwant-raj&theme=tokyonight&margin-w=15"/>
-
-</p>
+</div>
 
 ---
 
-## 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
+### 💡 *"Turning ideas into intelligent applications through code and AI."*
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajwant-raj&theme=tokyo-night"/>
+⭐ If you like my projects, consider giving them a star!
 
-</p>
-
----
-
-# 🤝 Connect With Me
-
-📧 Email
-
-rajwantraj667@gmail.com
-
-💼 LinkedIn
-
-https://linkedin.com/in/rajwant-raj
-
-💻 GitHub
-
-https://github.com/rajwant-raj
-
----
-
-<p align="center">
-
-"Turning ideas into intelligent applications with AI."
-
-⭐ If you like my work, consider starring my repositories!
-
-</p>
+</div>
